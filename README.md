@@ -1,4 +1,5 @@
-# dataviz_ditella
+# Visualización de Datos (2022)
+## MiM | Universidad Torcuato Di Tella
 
 
 ### [Data Visualization in Python I](https://colab.research.google.com/github/emmanueliarussi/dataviz_ditella/blob/master/1_python_dataviz.ipynb)
