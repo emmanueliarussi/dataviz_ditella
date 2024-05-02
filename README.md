@@ -1,4 +1,4 @@
-# Visualización de Datos (2023)
+# Visualización de Datos (2024)
 ## MiM | Universidad Torcuato Di Tella
 
 
